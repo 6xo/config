@@ -19,6 +19,11 @@ set whichwrap=b,s,h,l,<,>,[,]
 set backspace=start,indent,eol
 
 syntax enable
-colorscheme Tomorrow-Night
+colorscheme Tomorrow-Night-Bright
 
 set smartcase
+
+set display=lastline
+
+set showmatch
+set matchtime=1
