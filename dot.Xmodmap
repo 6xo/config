@@ -1,0 +1,18 @@
+!CapsLockを修飾子から外す
+!remove Lock = Caps_Lock
+
+!CapsLockをMode_switchに割り当てる
+keycode 66 = Mode_switch
+
+! hjkleadの挙動
+keycode 43 = h H Left Left
+keycode 44 = j J Down Down
+keycode 45 = k K Up Up
+keycode 46 = l L Right Right
+keycode 26 = e E End End
+keycode 38 = a A Home Home
+keycode 40 = d D BackSpace
+
+!スペースキーの隣
+keycode 100 = Zenkaku_Hankaku Kanji Zenkaku_Hankaku Kanji
+keycode 102 = Zenkaku_Hankaku Kanji Zenkaku_Hankaku Kanji
